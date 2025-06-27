@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science, Python, and Machine Learning**
 - 👯 I’m looking to collaborate on **open-source Python projects**
-- 🤝 I’m looking for help with **Data Science challenges**
+- 🤝 I’m looking for help with **Python code challenges**
 - 💬 Ask me about **Python,HTML,CSS and talk about other technologies**
 - 📫 How to reach me: **Pythondevloper78@outlook.com**
 - ⚡ Fun fact: **I love solving coding puzzles and learning new tech!**
