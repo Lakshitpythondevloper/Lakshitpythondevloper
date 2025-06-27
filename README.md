@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate on **open-source Python projects**
 - 🤝 I’m looking for help with **Python code challenges**
 - 💬 Ask me about **Python,HTML,CSS and talk about other technologies**
-- 📫 How to reach me: **pythondevloper78@outlook.com**
 - ⚡ Fun fact: **I love solving coding puzzles and learning new tech!**
 
 <h2 align="center">🚀 Languages & Tools</h2>
