@@ -11,6 +11,7 @@
 - 👯 I’m looking to collaborate on **open-source Python projects**
 - 🤝 I’m looking for help with **Python code challenges**
 - 💬 Ask me about **Python,HTML,CSS and talk about other technologies**
+- 📫 How to reach me: **pythondevloper78@outlook.com**
 - ⚡ Fun fact: **I love solving coding puzzles and learning new tech!**
 
 <h2 align="center">🚀 Languages & Tools</h2>
@@ -30,7 +31,7 @@
 <h2 align="center">🌐 Connect with me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="mailto:pythondevloper78@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 ---
